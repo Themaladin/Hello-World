@@ -1,0 +1,6 @@
+C:\Users\robin.stenlarsen\Desktop\xD\Lbs skolan\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\robin.stenlarsen\Desktop\xD\Lbs skolan\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\robin.stenlarsen\Desktop\xD\Lbs skolan\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\robin.stenlarsen\Desktop\xD\Lbs skolan\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\robin.stenlarsen\Desktop\xD\Lbs skolan\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\robin.stenlarsen\Desktop\xD\Lbs skolan\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
